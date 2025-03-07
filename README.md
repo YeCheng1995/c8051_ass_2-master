@@ -19,4 +19,4 @@
 - Displays the player's current location and orientation
 
 ## More details
--Check report
+-Check COMP8051_Asst2.pdf
