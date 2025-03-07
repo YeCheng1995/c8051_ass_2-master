@@ -17,3 +17,6 @@
 ## Console
 - Displays a 2-D map of the maze
 - Displays the player's current location and orientation
+
+## More details
+-Check report
